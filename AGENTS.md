@@ -1,4 +1,3 @@
-
 # 📘 Starter `AGENTS.md`
 
 Here is a simple version that introduces the idea without overcomplicating it.
